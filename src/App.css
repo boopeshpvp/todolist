@@ -1,0 +1,8 @@
+
+.margin{
+  margin-top: 22px;
+}
+.flex {
+  display: flex;
+  gap: 20px;
+}
